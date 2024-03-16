@@ -1,6 +1,6 @@
 # Bike Sales Analysis
 ## Introduction
-A Excel project on sales analysis of Bike Purchase dataset, done with the help of video guidance of Alex The Analyst, the dataset is provided in his [youtube video](https://www.youtube.com/watch?v=opJgMj1IUrc).
+An Excel project on sales analysis of Bike Purchase dataset, done with the help of video guidance of Alex The Analyst, the dataset is provided in his [youtube video](https://www.youtube.com/watch?v=opJgMj1IUrc).
 
 ## Problem Statement
 1. Which Age range purchases the most bikes?
